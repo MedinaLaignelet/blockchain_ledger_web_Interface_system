@@ -10,7 +10,8 @@ As a next step in the python coding, we input the areas and messages for the use
 Finally, the code was tested by running the streamlit application in a terminal, creating records and adding new blocks, (Each with its prev_hash value, time stamp and nonce numbers which were based in the Block difficulty set up for each entry.)
 The following is the screenshot showing the web interface with the attributes, difficulty and inspector blocks, 3 new records and the validation button showing a “true” to validate the blockchain.
 
- ![alt text](<\Images\BlockchainsSreenshot .png">)
+ <img src="/Images/BlockchainsSreenshot .png">
+ 
 
 ###Resources
 1.	Fintech Bootcamp-UC Berkely Extension Class materials
